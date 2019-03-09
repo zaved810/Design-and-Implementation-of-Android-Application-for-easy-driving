@@ -5,7 +5,7 @@
 ## Team Members
 1. [Ayaz Khan (161500154)](http://gtihub.com/Ayaz5426)
 2. Honey Vishwakarma (161500243)
-3. Shivangi Tripathi (161500278)
+3. [Shivangi Tripathi (161500278)](http://github.com/shivangitripathi)
 4. [Zaved Alam (161500646)](http://github.com/zaved810)
 
 ## Supervised By-
