@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/driv"
+    android:maxWidth="400dp"
+    android:minWidth="400dp"
+    android:orientation="vertical"
+    android:touchscreenBlocksFocus="true"
+    android:visibility="visible"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/RTO"
+            android:layout_margin="50dp"
+            android:layout_width="262dp"
+            android:layout_height="110dp"
+            android:text="R.T.O"
+            android:background="@drawable/butt"
+            />
+
+        <Button
+
+            android:id="@+id/OWNER"
+            android:layout_width="262dp"
+            android:layout_height="110dp"
+            android:layout_margin="50dp"
+            android:background="@drawable/butt"
+            android:text="OWNER" />
+
+        <Button
+            android:id="@+id/BENIFICIARY"
+
+
+            android:layout_width="262dp"
+            android:layout_height="110dp"
+            android:layout_margin="50dp"
+            android:layout_marginBottom="0dp"
+            android:text="BENEFICIARY"
+            android:background="@drawable/butt"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>
