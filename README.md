@@ -4,9 +4,19 @@
 ## Design and implementation of Android Application for easy driving
 ## Team Members
 1. [Ayaz Khan (161500154)](http://gtihub.com/Ayaz5426)
+
 2. [Honey Vishwakarma (161500243)](http://github.com/VHoney)
+=======
+2. Honey Vishwakarma (161500243)
+
 3. [Shivangi Tripathi (161500278)](http://github.com/shivangitripathi)
 4. [Zaved Alam (161500646)](http://github.com/zaved810)
+
+## Supervised By-
+_Mr. Neeraj Khanna_  
+**Technical Trainer**  
+**Department of Computer Engineering & Applications**  
+
 
 ___
 
@@ -77,27 +87,66 @@ ___
 ___
 
 ### Requirements:
-* HARDWARE REQUIRED:
-  * 4 GB RAM (Minimum)
-  * 10 GB disk space
 
-* SOFTWARE REQUIRED:
-	* Android Studio
-	* Java
-	* Eclipse
-	* Google Firebase
+
+
+ * HARDWARE REQUIRED:
+   * 4 GB RAM (Minimum)
+   * 10 GB disk space
+
+ * SOFTWARE REQUIRED:
+   * Android Studio
+   * Java
+   * Eclipse
+   * Google Firebase
 
 
 
 ___
 
-
 ### TESTING:
-We will use iterative development workflow model:
+
+
+
+ We will use iterative development workflow model:
 As your app expands, you might find it necessary to fetch data from a server, interact with the device's sensors, access local storage, or render complex user interfaces. The versatility of your app demands a comprehensive testing strategy. When developing a feature iteratively, you start by either writing a new test or by adding cases and assertions to an existing unit test. The test fails at first because the feature isn't implemented yet.
 
  It's important to consider the units of responsibility that emerge as you design the new feature. For each unit, you write a corresponding unit test. Your unit tests should nearly exhaust all possible interactions with the unit, including standard interactions, invalid inputs, and cases where resources aren't available.
+
+ ![Testing Model](https://github.com/zaved810/Design-and-Implementation-of-Android-Application-for-easy-driving/blob/master/images/testing.png)
  
  
- ___
+ 
+___
+
+### CONTRIBUTION OF THE PROJECT:
+
+
+
+ This project helps in saving time, effort and money. It also helps in detection of fake documents and stolen vehicles.
+
+
+
+___
+
+### SCOPE FOR EXTENSION:
+
+
+
+ We need to create an extra portal for police stations which would help in identifying a lost/ stolen vehicle. A complain could be lodged immediately by the mobile application. 
+
+
+
+___
+
+### CONCLUSION:
+
+
+
+ People face problems as stated. We have come up with an innovative and effective solution which would solve the given social problem.
+ 
+
+___
+
+
 
